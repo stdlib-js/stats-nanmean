@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-27)
+## Unreleased (2025-12-03)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`7c108ad`](https://github.com/stdlib-js/stdlib/commit/7c108ad80e9720a66e890bb47cedcb3851830405) - **feat:** add `stats/nanmean` [(#7968)](https://github.com/stdlib-js/stdlib/pull/7968) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 
 </details>
